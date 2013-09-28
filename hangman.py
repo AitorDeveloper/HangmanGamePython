@@ -146,24 +146,3 @@ while True:
 			word = input('Enter the word to guess: ')
 		else:
 			break
-			
-
-
-
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
